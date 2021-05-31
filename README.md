@@ -1,0 +1,1 @@
+# trek-ios-AdMobMediation_v7-sample
