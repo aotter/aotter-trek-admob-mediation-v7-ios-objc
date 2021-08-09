@@ -1,5 +1,5 @@
 PODS:
-  - AotterTrek-iOS-SDK (3.5.9):
+  - AotterTrek-iOS-SDK (3.6.2):
     - GoogleAds-IMA-iOS-SDK (= 3.13.0)
   - Google-Mobile-Ads-SDK (7.69.0):
     - GoogleAppMeasurement (~> 7.0)
@@ -45,13 +45,13 @@ PODS:
   - SDWebImage (5.11.1):
     - SDWebImage/Core (= 5.11.1)
   - SDWebImage/Core (5.11.1)
-  - TrekSDKAdMobMediationObjc (1.0.1)
+  - TrekSDKAdMobMediationObjc (1.0.3)
 
 DEPENDENCIES:
-  - AotterTrek-iOS-SDK (= 3.5.9)
+  - AotterTrek-iOS-SDK (= 3.6.2)
   - Google-Mobile-Ads-SDK (= 7.69.0)
   - SDWebImage
-  - TrekSDKAdMobMediationObjc (= 1.0.1)
+  - TrekSDKAdMobMediationObjc (= 1.0.3)
 
 SPEC REPOS:
   trunk:
@@ -67,7 +67,7 @@ SPEC REPOS:
     - TrekSDKAdMobMediationObjc
 
 SPEC CHECKSUMS:
-  AotterTrek-iOS-SDK: 572b1b313a8ded260f5f2695d280bd236834a2f4
+  AotterTrek-iOS-SDK: 94ff9c74579c896e0e0f3f5f673336c8416718de
   Google-Mobile-Ads-SDK: 2f288748a42920d1c744946a460896a95b0e9110
   GoogleAds-IMA-iOS-SDK: b8d3693d370edcbd1440c827897c2b2a0b76673d
   GoogleAppMeasurement: fd19169c3034975cb934e865e5667bfdce59df7f
@@ -76,8 +76,8 @@ SPEC CHECKSUMS:
   nanopb: a0ba3315591a9ae0a16a309ee504766e90db0c96
   PromisesObjC: 3113f7f76903778cf4a0586bd1ab89329a0b7b97
   SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
-  TrekSDKAdMobMediationObjc: c3ea7f0ce9287d2452cbd25d0db280ce224be543
+  TrekSDKAdMobMediationObjc: db5f437c7f2fd4f78ddc27f2572aaaa19f1d2762
 
-PODFILE CHECKSUM: ed5ccf73d889ef9515bec71a4c5b520c9a9a7cc0
+PODFILE CHECKSUM: 7bb4c41f2771ebe45f00c5f230aae84fc41591e7
 
 COCOAPODS: 1.10.1

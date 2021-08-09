@@ -6,9 +6,9 @@ target 'AdMobMediation_v7' do
   use_frameworks!
 
   # Pods for AdMobMediation_v7
-  pod 'AotterTrek-iOS-SDK','3.5.9'
+  pod 'AotterTrek-iOS-SDK','3.6.2'
   pod 'Google-Mobile-Ads-SDK','7.69.0'
-  pod 'TrekSDKAdMobMediationObjc','1.0.1'
+  pod 'TrekSDKAdMobMediationObjc','1.0.3'
   pod 'SDWebImage'
 end
 
@@ -17,8 +17,8 @@ target 'AdMobMediation_v7_Swift' do
   use_frameworks!
  
   # Pods for AdMobMediation_v7_Swift
-#  pod 'AotterTrek-iOS-SDK','3.5.9'
+#  pod 'AotterTrek-iOS-SDK','3.6.2'
 #  pod 'Google-Mobile-Ads-SDK','7.69.0'
-#  pod 'TrekSDKAdMobMediationObjc','1.0.1'
+#  pod 'TrekSDKAdMobMediationObjc','1.0.3'
 #  pod 'SDWebImage'
 end
